@@ -15,7 +15,7 @@ It contains two files in csv format. Each file contains 8 columns, which are:
 7. Timezone offset in minutes (The offset in minutes between when this check-in occurred and the same time in UTC)
 8. UTC time
 
-The file dataset_TSMC2014_NYC.csv contains 227428 check-ins in New York city.
+The file `dataset_TSMC2014_NYC.csv` contains 227428 check-ins in New York city.
 
 ## REFERENCES
 
