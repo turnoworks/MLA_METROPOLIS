@@ -19,14 +19,4 @@ The file dataset_TSMC2014_NYC.csv contains 227428 check-ins in New York city.
 
 REFERENCES
 
-@article{yang2014modeling,
-	author={Yang, Dingqi and Zhang, Daqing and Zheng, Vincent. W. and Yu, Zhiyong},
-	journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
-	title={Modeling User Activity Preference by Leveraging User Spatial Temporal Characteristics in LBSNs},
-	year={2015},
-	volume={45},
-	number={1},
-	pages={129--142},
-	ISSN={2168-2216},
-	publisher={IEEE}
-}
+Yang, D., Zhang, D., Zheng, V. W., & Yu, Z. (2014). Modeling user activity preference by leveraging user spatial temporal characteristics in LBSNs. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 45(1), 129-142.
