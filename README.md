@@ -17,6 +17,6 @@ It contains two files in csv format. Each file contains 8 columns, which are:
 
 The file dataset_TSMC2014_NYC.csv contains 227428 check-ins in New York city.
 
-REFERENCES
+## REFERENCES
 
-Yang, D., Zhang, D., Zheng, V. W., & Yu, Z. (2014). Modeling user activity preference by leveraging user spatial temporal characteristics in LBSNs. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 45(1), 129-142.
+* Yang, D., Zhang, D., Zheng, V. W., & Yu, Z. (2014). Modeling user activity preference by leveraging user spatial temporal characteristics in LBSNs. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 45(1), 129-142.
