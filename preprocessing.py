@@ -67,4 +67,4 @@ user_visit_counts = user_visit_counts.merge(visit_timestamps, on=['userId', 'ven
 print(user_visit_counts)
 
 # Saving the updated DataFrame to CSV
-user_visit_counts.to_csv('nyc_user_visits_with_timestamps.csv', index=False)
+user_visit_counts.to_csv('clean_data.csv', index=False)
