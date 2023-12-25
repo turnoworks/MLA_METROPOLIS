@@ -6,7 +6,7 @@ from pyvis.network import Network
 from tqdm import tqdm
 
 # Load your data into a DataFrame
-data = pd.read_csv('nyc_user_visits_with_timestamps.csv')
+data = pd.read_csv('clean_data.csv')
 
 # Function to convert timestamp strings to datetime objects
 def parse_timestamps(ts_string):
